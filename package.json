@@ -1,0 +1,1 @@
+{"license": "", "description": "When there&#39;s a change on a pin tab.  An audible notification is made.", "contributors": [], "author": "JudgeProphet", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev94", "lib": "lib", "fullName": "BingPinTab", "main": "main", "id": "jid0-cZnBj9pEaKQZAi3jLyiXGodnwEQ", "name": "bingpintab"}
